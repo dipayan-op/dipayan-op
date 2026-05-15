@@ -51,9 +51,3 @@ Security assessment and vulnerability analysis using penetration testing workflo
 - Email: dipayangta8900@gmail.com
 
 ---
-
-## 📈 GitHub Stats
-
-"Dipayan's GitHub stats" (https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipayan-op&theme=github_dark)
-
-"Top Languages" (https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipayan-op&theme=github_dark)
