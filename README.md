@@ -54,6 +54,6 @@ Security assessment and vulnerability analysis using penetration testing workflo
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipayan-op&show_icons=true&theme=tokyonight&cache_seconds=1800)
+"Dipayan's GitHub stats" (https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipayan-op&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipayan-op&layout=compact&theme=tokyonight&cache_seconds=1800)
+"Top Languages" (https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipayan-op&theme=github_dark)
